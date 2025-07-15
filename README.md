@@ -12,4 +12,4 @@ Welcome to my cybersecurity journey. This repo contains my hands-on labs, recon 
 
 ---
 
-Built by `dacyborg87` — inspired by Mr. Terrific and Cyborg.
+
